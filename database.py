@@ -1,3 +1,4 @@
+|-------------------------------------------------------------------------|
 # CRUD operations for blog posts Everything is working you can check 
 from bson import ObjectId
 from pymongo import MongoClient
