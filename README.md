@@ -1,4 +1,4 @@
-# fast API Server for blog
+# FASTAPI WebFramework Server for blog
 
 
 This FAST API server provides endpoints to retrieve Blog information, with support for adding new branches. It uses Mongodb as the database backend.
