@@ -1,3 +1,4 @@
+|-------------------------------------------------------|
 import secrets
 from fastapi import FastAPI, HTTPException, Request
 from models import BlogPost, Comment, LikeDislike
