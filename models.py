@@ -11,4 +11,4 @@ class Comment(BaseModel):
 
 class LikeDislike(BaseModel):
     type: str  # 'like' or 'dislike'
-    user_id: int  
+    user_id: int  # Assuming each user has a unique ID
