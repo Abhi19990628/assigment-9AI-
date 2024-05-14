@@ -1,7 +1,7 @@
 # FASTAPI web framework Server for blog
 
 
-This FAST API server provides endpoints to retrieve Blog information, with support for adding new branches. It uses Mongodb as the database backend.
+This FAST API server provides endpoints to retrieve Blog information, with support for adding new branches. It uses Mongo db as the database backend.
 
 ## Setup Instructions
 
