@@ -12,7 +12,7 @@ This FAST API server provides endpoints to retrieve Blog information, with suppo
 
 2. **Install dependencies**:
    ```bash
-   pip install python
+
    pip install unicone
    pip install fastapi
    pip install pymongo
