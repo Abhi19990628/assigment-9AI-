@@ -22,8 +22,7 @@ This FAST API server provides endpoints to retrieve Blog information, with suppo
     * Create a new mongodb database for the project.
 4. **Set Database Credentials**:
    * client = MongoClient("mongodb://localhost:27017/")
-   * db = client["blog_database"]
-  
+   * db = client["blog_database"]--
 
 5. **Run the Server**:
    ```bash
