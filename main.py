@@ -63,6 +63,4 @@ async def create_new_comment(post_id: str, comment: Comment):
 async def read_comments_for_post(post_id: str):
     return read_comments(post_id)
 
-@app.post("/posts/{post_id}/like/")
-async def like_post_by_id(post_id: str, like: LikeDislike):
-    return like_post(post_id, like)
+
