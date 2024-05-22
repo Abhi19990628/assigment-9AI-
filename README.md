@@ -38,4 +38,4 @@ This FAST API server provides endpoints to retrieve Blog information, with suppo
  * @app.put("/posts/{post_id}"):GET endpoint to retrieve details of a specific blog identified by id and you can update
  * @app.delete("/posts/{post_id}"):GET endpoint to retrieve deltails of a specific blog identified by id and you can delete
  * @app.post("/posts/{post_id}/comments/"): GET endpoint and u can add comment on specific blog
- * @app.post("/posts/{post_id}/like/") : GET endpoint and u can add  like on post ,
+ * @app.post("/posts/{post_id}/like/") : GET endpoint and u can add  like on post 
